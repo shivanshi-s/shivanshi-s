@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ... I read and like listening to music!
 
 ### Vibin' to  🎧 :
-[![Spotify](https://novatorem-vans-drop.vercel.app/api/spotify)](https://open.spotify.com/user/Shivanshi.)
+[![Spotify](https://novatorem-vans-drop.vercel.app/api/spotify)](https://open.spotify.com/user/maxu37ra0q81hhj9xo8p7ue2z)
