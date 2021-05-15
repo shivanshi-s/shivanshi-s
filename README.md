@@ -23,8 +23,8 @@
 
 ## My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vans-drop&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivanshi-s&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
  <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vans-drop&show_icons=true&count_private=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=shivanshi-s&show_icons=true&count_private=true&theme=tokyonight)
