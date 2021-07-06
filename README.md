@@ -10,15 +10,17 @@
   [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/QHdzrEBwNY)
   
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 90px></h2>
+<h2> About Me&nbsp;&nbsp;<img src = "https://cdn2.scratch.mit.edu/get_image/user/67844577_60x60.png" width = 35px></h2>
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning DSA and Web Development 
-
+ 
 - 👯 I’m looking to collaborate on Projects 
-
-- 💬 Talk to me about C++, Front-End Web Development, Open Source 
+ 
+- 😄 Pronouns: she/they
+ 
+- ⚡ Fun fact: I read and like listening to music! (PS: Send cat pics)
 
 
 <hr>
@@ -45,7 +47,7 @@
 <!--[![Spotify](https://novatorem-vans-drop.vercel.app/api/spotify)](https://open.spotify.com/user/maxu37ra0q81hhj9xo8p7ue2z)--> 
 <hr>
 
-<h2> My Stats <img src = "https://i.pinimg.com/originals/cb/17/b8/cb17b80a942d7c317a35ff1324fae12f.gif" width = 50px> </h2>
+<h2> My Stats <img src = "https://thelinknewspaper.ca/images/articles/Volume_36/Special/_resized/mediadem.polls.LauraLalonde.gif" width = 50px> </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivanshi-s&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
