@@ -1,14 +1,13 @@
 <h1> Hello Fellow < Developers/ >! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">  </h1>
  
  
- I'm Shivanshi Saxena, a First Year Student at SRM University,Delhi-NCR,Sonepat.
+ I'm Shivanshi Saxena, a Second Year Student curently pursuing my Bachelor's in Technology. I like learning, developing and taking part in Hackathons!
  
  &nbsp; &nbsp; 
  [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/whatshivanshi)&nbsp;&nbsp;
  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shivanshi-saxena12/) &nbsp; &nbsp; 
  <a href="https://medium.com/@whatshivanshi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  &nbsp;  &nbsp;
-  [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/QHdzrEBwNY)  &nbsp;  &nbsp;
- [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://vans-drop.hashnode.dev/)
+[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://vans-drop.hashnode.dev/)
   
 
 <h2> About Me&nbsp;&nbsp;<img src = "https://cdn2.scratch.mit.edu/get_image/user/67844577_60x60.png" width = 35px></h2>
