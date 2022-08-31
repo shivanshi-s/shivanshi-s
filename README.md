@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">  </h1>
  
  
- I'm Shivanshi Saxena, a Second Year Student curently pursuing my Bachelor's in Technology. I like learning, developing and taking part in Hackathons!
+ I'm Shivanshi Saxena, a Third Year Student curently pursuing my Bachelor's in Technology. I like learning, developing and taking part in Hackathons!
  
  &nbsp; &nbsp; 
  [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/whatshivanshi)&nbsp;&nbsp;
