@@ -6,7 +6,7 @@
   </h2>
 </div>
 
-- I'm a third year student pursuing Computer Science & Engineering. 👩‍🎓
+- I'm a final year student pursuing Computer Science & Engineering. 👩‍🎓
 - I am interested in Web development and love working with communities.
 - Currently learning React and Backend Dev.
 - Pronouns : Ask me!
