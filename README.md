@@ -1,15 +1,13 @@
 <div align="center">
   <h2>
 
-    Hello World 👋 I'm Shivanshi
+    Hey there, I'm Shivanshi 
 
   </h2>
 </div>
 
-- I'm a final year student pursuing Computer Science & Engineering. 👩‍🎓
-- I am interested in Web development and love working with communities.
-- Currently learning React and Backend Dev.
-- Pronouns : Ask me!
+- I work in Product and like to play with code!
+  
 - Fun fact : I read and like listening to music! (PS: Send cat memes)
  
  &nbsp; &nbsp; 
@@ -27,12 +25,12 @@
 
 
 <hr>
-
-<div align="center">
+<h3 align="center" >----underconstruction stay stuned!----</h3>
+<!---<div align="center">
 <h2> My Stats 📊 </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivanshi-s&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=shivanshi-s&show_icons=true&count_private=true&theme=tokyonight)
  
-</div>
+</div>--->
 
